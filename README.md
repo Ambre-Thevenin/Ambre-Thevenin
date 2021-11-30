@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello World 👋🏼
+### Hello World 👋🏼
 I am a student in Web Developpment at Wild Code School Paris ! 
 - 👩🏽‍💻 Currently living in Paris, speaking French & English, open to work in Paris, PACA or Remote (pronouns : she/her)
 - 🔭 Studying & Working on multiple frontend and backend projects using HTML, CSS and JavaScript with React and Nodejs

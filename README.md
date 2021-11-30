@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello World 👋🏼
+# Hello World 👋🏼
 I am a student in Web Developpment at Wild Code School Paris ! 
 - 👩🏽‍💻 Currently living in Paris, speaking French & English, open to work in Paris, PACA or Remote (pronouns : she/her)
 - 🔭 Studying & Working on multiple frontend and backend projects using HTML, CSS and JavaScript with React and Nodejs
@@ -23,8 +23,8 @@ I am a student in Web Developpment at Wild Code School Paris !
 
 <br>
 
-### Let's catch up  📫
 
+### Let's catch up  📫
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ambrethevenin/)
 ![Twitter](https://img.shields.io/badge/AmbreThevenin-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <br>

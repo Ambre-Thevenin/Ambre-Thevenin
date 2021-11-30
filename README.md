@@ -52,3 +52,9 @@ I am a student in Web Developpment at Wild Code School Paris !
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+<br>
+<br>
+
+[![Ambre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambre-Thevenin&theme=calm)](https://github.com/Ambre-Thevenin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambre-Thevenin&theme=calm)](https://github.com/Ambre-Thevenin/github-readme-stats)
+

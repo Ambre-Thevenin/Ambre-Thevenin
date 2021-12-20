@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello World 👋🏼
+# Hello World, my name is Ambre 👋🏼
 I am a student in Web Developpment at Wild Code School Paris ! 
-- 👩🏽‍💻 Currently living in Paris, speaking French & English, open to work in Paris, PACA or Remote (pronouns : she/her)
-- 🔭 Studying & Working on multiple frontend and backend projects using HTML, CSS and JavaScript with React and Nodejs
-- 💬 Looking for an internship, permanent contract or freelancing missions
+- 👩🏽‍💻 Currently living in Paris, speaking French & English (pronouns : she/her)
+- 🔭 Studying & Working on multiple frontend and backend projects using HTML, CSS and JavaScript with React and Nodejs (with Express)
 - 🌱 I am at the beginning of my Web Development journey but I am really eager to learn and keep learning
 
-<br>
+<br> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322779C&lines=Learning+new+things+is+my+passion;Wild+Code+School+student+(Paris);Women+in+Tech+advocate;Fan+of+Space%2C+outer+%26+personal)](https://git.io/typing-svg)
 
 
 ### Let's catch up  📫
@@ -31,22 +31,26 @@ I am a student in Web Developpment at Wild Code School Paris !
 <br>
 <br>
 
-## Expertise
+## Front-End technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## Back-End technologies
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Dev Environment
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ## Also
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
@@ -55,6 +59,7 @@ I am a student in Web Developpment at Wild Code School Paris !
 <br>
 <br>
 
+## My coding journey 
 [![Ambre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambre-Thevenin&theme=calm)](https://github.com/Ambre-Thevenin/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambre-Thevenin&theme=calm)](https://github.com/Ambre-Thevenin/github-readme-stats)
 

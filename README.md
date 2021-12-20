@@ -21,6 +21,7 @@ I am a student in Web Developpment at Wild Code School Paris !
 - 🌱 I am at the beginning of my Web Development journey but I am really eager to learn and keep learning
 
 <br> 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322779C&lines=Learning+new+things+is+my+passion;Wild+Code+School+student+(Paris);Women+in+Tech+advocate;Fan+of+Space%2C+outer+%26+personal)](https://git.io/typing-svg)
 
 

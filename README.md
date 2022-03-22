@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 # Hello World, my name is Ambre 👋🏼
 I am a student in Web Developpment at Wild Code School Paris ! 
 - 👩🏽‍💻 Currently living in Paris, speaking French & English (pronouns : she/her)
-- 🔭 Studying & Working on multiple frontend and backend projects using HTML, CSS and JavaScript with React and Nodejs (with Express)
+- 🔭 I followed Wild Code School Paris' bootcamp, discovering React & NodeJs during 5 months
+- 🚀 I am now Product Engineer Inter at TOTEM
 - 🌱 I am at the beginning of my Web Development journey but I am really eager to learn and keep learning
 
 <br> 

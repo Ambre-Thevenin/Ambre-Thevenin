@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello World, my name is Ambre 👋🏼
-I am a student in Web Developpment at Wild Code School Paris ! 
+I am Product Engineer Intern at TOTEM Paris ! 
 - 👩🏽‍💻 Currently living in Paris, speaking French & English (pronouns : she/her)
 - 🔭 I followed Wild Code School Paris' bootcamp, discovering React & NodeJs during 5 months
 - 🚀 I am now Product Engineer Inter at TOTEM

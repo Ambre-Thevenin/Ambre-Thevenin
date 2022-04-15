@@ -24,7 +24,7 @@ I am Product Engineer Intern at TOTEM Paris !
 
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322779C&lines=Learning+new+things+is+my+passion;Wild+Code+School+student+(Paris);Women+in+Tech+advocate;Fan+of+Space%2C+outer+%26+personal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322779C&lines=Learning+new+things+is+my+passion;Wild+Code+School+alumni+(Paris);Women+in+Tech+advocate;Fan+of+Space%2C+outer+%26+personal)](https://git.io/typing-svg)
 
 
 ### Let's catch up  📫

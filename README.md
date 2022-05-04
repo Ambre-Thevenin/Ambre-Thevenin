@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am Product Engineer Intern at TOTEM Paris ! 
 - 👩🏽‍💻 Currently living in Paris, speaking French & English (pronouns : she/her)
 - 🔭 I followed Wild Code School Paris' bootcamp, discovering React & NodeJs during 5 months
-- 🚀 I am now Product Engineer Inter at TOTEM
+- 🚀 I am now Product Engineer Intern at TOTEM
 - 🖥 I am working with some JavaScript : React, React Native, NodeJS with Express, TypeScript, GraphQL (& Apollo) & MongoDB
 - 🌱 I am at the beginning of my Web Development journey but I am really eager to learn and keep learning
 

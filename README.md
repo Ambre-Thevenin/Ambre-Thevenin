@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I am Product Engineer Intern at TOTEM Paris ! 
 - 👩🏽‍💻 Currently living in Paris, speaking French & English (pronouns : she/her)
 - 🔭 I followed Wild Code School Paris' bootcamp, discovering React & NodeJs during 5 months
-- 🚀 I am now Product Engineer Intern at TOTEM
+- 🚀 I am now Product Engineer at TOTEM
 - 🖥 I am working with some JavaScript : React, React Native, NodeJS with Express, TypeScript, GraphQL (& Apollo) & MongoDB
-- 🌱 I am at the beginning of my Web Development journey but I am really eager to learn and keep learning
+- 🌱 Mobile-enthusiast, I have worked for more than 5 years in Mobile Advertising before developping my coding skills (pun intended)
 
 <br> 
 
@@ -29,7 +29,7 @@ I am Product Engineer Intern at TOTEM Paris !
 
 ### Let's catch up  📫
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ambrethevenin/)
-![Twitter](https://img.shields.io/badge/AmbreThevenin-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/ambrethvn-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <br>
 <br>
 <br>

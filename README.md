@@ -80,7 +80,7 @@ I am Product Engineer Intern at TOTEM Paris !
 <br>
 <br>
 
-## My coding journey 
+<!--## My coding journey 
 [![Ambre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambre-Thevenin&theme=calm)](https://github.com/Ambre-Thevenin/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambre-Thevenin&theme=calm)](https://github.com/Ambre-Thevenin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambre-Thevenin&theme=calm)](https://github.com/Ambre-Thevenin/github-readme-stats) -->
 

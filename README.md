@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 -->
 
 # Hello World, my name is Ambre 👋🏼
-I am Product Engineer Intern at TOTEM Paris ! 
+I am Product Engineer at TOTEM (Paris) ! 
 - 👩🏽‍💻 Currently living in Paris, speaking French & English (pronouns : she/her)
+- 🛫 Soon moving to Montreal, Canada 🇨🇦
 - 🔭 I followed Wild Code School Paris' bootcamp, discovering React & NodeJs during 5 months
 - 🚀 I am now Product Engineer at TOTEM
-- 🖥 I am working with some JavaScript : React, React Native, NodeJS with Express, TypeScript, GraphQL (& Apollo) & MongoDB
+- 🖥 I am working with some JavaScript & TypeScript and my heart goes to : React, React Native, NodeJS with Express, GraphQL (& Apollo) & MongoDB
 - 🌱 Mobile-enthusiast, I have worked for more than 5 years in Mobile Advertising before developping my coding skills (pun intended)
 
 <br> 
@@ -48,7 +49,6 @@ I am Product Engineer Intern at TOTEM Paris !
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)

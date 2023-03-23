@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 I am Product Engineer at TOTEM (Paris) ! 
 - 👩🏽‍💻 Currently living in Paris, speaking French & English (pronouns : she/her)
 - 🛫 Soon moving to Montreal, Canada 🇨🇦
-- 🔭 I followed Wild Code School Paris' bootcamp, discovering React & NodeJs during 5 months
-- 🚀 I am now Product Engineer at TOTEM
+- 🔭 I followed Wild Code School Paris' coding bootcamp, discovering React & NodeJs during 5 months
+- 🚀 I am now Product Engineer at TOTEM - meaning I'm a Full-Stack Developper loving mobile development 📱
 - 🖥 I am working with some JavaScript & TypeScript and my heart goes to : React, React Native, NodeJS with Express, GraphQL (& Apollo) & MongoDB
 - 🌱 Mobile-enthusiast, I have worked for more than 5 years in Mobile Advertising before developping my coding skills (pun intended)
 

@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 # Hello World, my name is Ambre 👋🏼
 I am Product Engineer at TOTEM (Paris) ! 
-- 👩🏽‍💻 Currently living in Paris, speaking French & English (pronouns : she/her)
-- 🛫 Soon moving to Montreal, Canada 🇨🇦
+- 👩🏽‍💻 Currently living in Montreal, Canada speaking French & English (pronouns : she/her)
 - 🔭 I followed Wild Code School Paris' coding bootcamp, discovering React & NodeJs during 5 months
 - 🚀 I am now Product Engineer at TOTEM - meaning I'm a Full-Stack Developper loving mobile development 📱
 - 🖥 I am working with some JavaScript & TypeScript and my heart goes to : React, React Native, NodeJS with Express, GraphQL (& Apollo) & MongoDB

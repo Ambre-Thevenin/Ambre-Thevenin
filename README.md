@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 # Hello World, my name is Ambre 👋🏼
-- 👩🏽‍💻 Currently living in Montreal, Canada speaking French & English (pronouns : she/her)
+- 👩🏽‍💻 Currently living in Montreal, Canada speaking French & English (pronouns : she/her) and working as a CMS Developper for Radio-Canada 
 - 🔭 I followed Wild Code School Paris' coding bootcamp, discovering React & NodeJs during 5 months
-- 🚀 I am now Product Engineer at TOTEM - meaning I'm a Full-Stack Developper loving mobile development 📱
+- 🚀 Former Product Engineer at TOTEM - meaning I'm a Full-Stack Developper loving mobile development 📱
 - 🖥 I am working with some JavaScript & TypeScript and my heart goes to : React, React Native, NodeJS with Express, GraphQL (& Apollo) & MongoDB
 - 🌱 Mobile-enthusiast, I have worked for more than 5 years in Mobile Advertising before developping my coding skills (pun intended)
 

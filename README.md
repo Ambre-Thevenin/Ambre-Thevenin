@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 -->
 
 # Hello World, my name is Ambre 👋🏼
-- 👩🏽‍💻 Currently living in Montreal, Canada speaking French & English (pronouns : she/her) and working as a CMS Developper for Radio-Canada 
+- 👩🏽‍💻 Currently living in South East of France after 2 amazing years in Canada, speaking French & English (pronouns : she/her)
+- 🇨🇦 I used to work as a CMS Developper Info for CBC / Radio-Canada 
 - 🔭 I followed Wild Code School Paris' coding bootcamp, discovering React & NodeJs during 5 months
-- 🚀 Former Product Engineer at TOTEM - meaning I'm a Full-Stack Developper loving mobile development 📱
+- 🚀 Also Former Product Engineer at TOTEM - meaning I'm a Full-Stack Developper loving mobile development 📱
 - 🖥 I am working with some JavaScript & TypeScript and my heart goes to : React, React Native, NodeJS with Express, GraphQL (& Apollo) & MongoDB
 - 🌱 Mobile-enthusiast, I have worked for more than 5 years in Mobile Advertising before developping my coding skills (pun intended)
 
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
 
 ### Let's catch up  📫
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ambrethevenin/)
-![Twitter](https://img.shields.io/badge/ambrethvn-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <br>
 <br>
 <br>
